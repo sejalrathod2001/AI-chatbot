@@ -3,7 +3,7 @@ from google import genai
 
 app = Flask(__name__)
 
-client = genai.Client(api_key="AQ.Ab8RN6LkXY7TZzUsWjuiCJmQ9QrLoewYwAsXsMGOVz0n4oku0A")
+client = genai.Client(api_key="AQ.Ab8RN6I0b5WUL_LH8iPqLKXnoLwzJiBsrNYlanPbcZ5s99zSgA")
 
 # (user_input + model_output turns) added  
 histories = {}
